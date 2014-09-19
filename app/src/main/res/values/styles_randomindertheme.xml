@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="EditTextRandoMinderTheme" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/randomindertheme_edit_text_holo_dark</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+
+  <style name="CheckBoxRandoMinderTheme" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/randomindertheme_btn_check_holo_dark</item>
+  </style>
+
+  <style name="SpinnerRandoMinderTheme" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/randomindertheme_spinner_background_holo_dark</item>
+      <item name="android:dropDownSelector">@drawable/randomindertheme_list_selector_holo_dark</item>
+  </style>
+
+  <style name="SpinnerDropDownItemRandoMinderTheme" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/randomindertheme_btn_radio_holo_dark</item>
+  </style>
+  <style name="ListViewRandoMinderTheme" parent="android:Widget.ListView">
+      <item name="android:listSelector">@drawable/randomindertheme_list_selector_holo_dark</item>
+  </style>
+
+  <style name="ListViewRandoMinderTheme.White" parent="android:Widget.ListView.White">
+      <item name="android:listSelector">@drawable/randomindertheme_list_selector_holo_dark</item>
+  </style>
+
+  <style name="SpinnerItemRandoMinderTheme" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+      <item name="android:textColor">@color/randomindertheme_color</item>
+  </style>
+
+</resources>

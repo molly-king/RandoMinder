@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="RandoMinderTheme" parent="Theme.AppCompat">
+
+    <item name="android:editTextStyle">@style/EditTextRandoMinderTheme</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxRandoMinderTheme</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerRandoMinderTheme</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemRandoMinderTheme</item>
+
+    <item name="android:listViewStyle">@style/ListViewRandoMinderTheme</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewRandoMinderTheme.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemRandoMinderTheme</item>
+
+  </style>
+
+</resources>
